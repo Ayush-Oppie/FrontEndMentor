@@ -87,4 +87,4 @@ I'd love to hear your thoughts! If you have any suggestions or improvements, fee
 
 ---
 
-**Thank you for checking out my project!** 😊
+# **Thank you for checking out my project!** 😊
